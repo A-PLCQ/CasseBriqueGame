@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beuvi\\Documents\\PLUMECOCQ_Augustin_WFA\\CasseBriqueGame\\CasseBriqueGame.csproj",
+      "projectUniqueName": "C:\\Users\\beuvi\\Desktop\\PLUMECOCQ_Augustin_WFA\\CasseBriqueGame\\CasseBriqueGame.csproj",
       "projectName": "CasseBriqueGame",
-      "projectPath": "C:\\Users\\beuvi\\Documents\\PLUMECOCQ_Augustin_WFA\\CasseBriqueGame\\CasseBriqueGame.csproj",
+      "projectPath": "C:\\Users\\beuvi\\Desktop\\PLUMECOCQ_Augustin_WFA\\CasseBriqueGame\\CasseBriqueGame.csproj",
       "packagesPath": "C:\\Users\\beuvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beuvi\\Documents\\PLUMECOCQ_Augustin_WFA\\CasseBriqueGame\\obj\\",
+      "outputPath": "C:\\Users\\beuvi\\Desktop\\PLUMECOCQ_Augustin_WFA\\CasseBriqueGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\beuvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
