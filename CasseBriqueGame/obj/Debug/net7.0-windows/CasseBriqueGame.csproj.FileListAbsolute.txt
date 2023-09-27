@@ -1,0 +1,16 @@
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\bin\Debug\net7.0-windows\CasseBriqueGame.exe
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\bin\Debug\net7.0-windows\CasseBriqueGame.deps.json
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\bin\Debug\net7.0-windows\CasseBriqueGame.runtimeconfig.json
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\bin\Debug\net7.0-windows\CasseBriqueGame.dll
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\bin\Debug\net7.0-windows\CasseBriqueGame.pdb
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.index.resources
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.csproj.GenerateResource.cache
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.AssemblyInfoInputs.cache
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.AssemblyInfo.cs
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.csproj.CoreCompileInputs.cache
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.dll
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\refint\CasseBriqueGame.dll
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.pdb
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\CasseBriqueGame.genruntimeconfig.cache
+C:\Users\beuvi\Documents\PLUMECOCQ_Augustin_WFA\CasseBriqueGame\obj\Debug\net7.0-windows\ref\CasseBriqueGame.dll
